@@ -32,3 +32,11 @@ Prototype applications and pipelines combining PySHRED and Landlab for spatiotem
 - [PySHRED](https://github.com/pyshred-dev/pyshred)
 - [Landlab](https://landlab.github.io/)
 - NumPy, Matplotlib, xarray
+
+---
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+Copyright (c) 2026 GAIA HazLab contributors

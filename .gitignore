@@ -1,1 +1,6 @@
 *.nc
+
+# Claude Code files — never commit these
+.claude/
+CLAUDE.md
+CLAUDE.local.md
